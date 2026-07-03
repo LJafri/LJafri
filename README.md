@@ -10,18 +10,6 @@
 
 </div>
 
----
-
-### About Me
-
-I help organizations modernize legacy platforms, design scalable API architectures, and unlock business value through AI driven automation. My work bridges the gap between complex enterprise data and modern, agentic user experiences.
-
-**My Focus Areas:**
-* AI & MCP Integration: Building agentic systems that transform how teams interact with enterprise data.
-* Platform Modernization: Migrating monolithic architectures to event-driven microservices.
-* Salesforce Integration: Connecting CRM ecosystems to modern tech stacks at scale.
-* API Design: Crafting resilient, well-documented APIs that accelerate development velocity.
----
 
 ### Tech Stack
 
@@ -38,7 +26,7 @@ I help organizations modernize legacy platforms, design scalable API architectur
 
 ### Certifications
 
-** 19x Certified Salesforce Principal Architect**
+** 18x Certified Salesforce Principal Architect**
 
 <details>
 <summary><b>View All Certifications</b></summary>
