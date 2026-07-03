@@ -5,8 +5,8 @@
 ### Tech Lead & Engineering Manager at Reach Financial
 
 [![Website](https://img.shields.io/badge/Portfolio-ljafri.me-blue?style=for-the-badge&logo=safari)](https://ljafri.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN_USER)
-[![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-12100E?style=for-the-badge&logo=medium)](https://medium.com/@YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Yljafri)
+[![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-12100E?style=for-the-badge&logo=medium)](https://medium.com/@lj.)
 
 </div>
 
